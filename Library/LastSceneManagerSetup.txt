@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/HexWaveAssets/Scenes/SampleScene.unity
+- path: Assets/Scenes/Scena1.unity
   isLoaded: 1
   isActive: 1
